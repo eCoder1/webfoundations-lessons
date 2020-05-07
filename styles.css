@@ -5,7 +5,7 @@ html {
 h3 {
 	color:green;
 	text-align: center;
-	}
+}
 
 b {
 	text-decoration: underline;
@@ -27,10 +27,10 @@ body {
 	//background-color: white;
 }    
 #heading {
-			background-color: green;
-			font-size: 25pt;
-			text-align: center;
-		}
+		background-color: green;
+		font-size: 25pt;
+		text-align: center;
+	}
 .heading {
         	font-style: italic;
         	margin-bottom: 50px;
@@ -128,7 +128,7 @@ body {
 	width: 30vw;
 }
 .white-background{
-	background-color: white
+	background-color: white;
 }
 .grey-background{
 	background-color: grey;
