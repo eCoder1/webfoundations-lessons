@@ -1,15 +1,16 @@
 <!DOCTYPE html> 
 <html> 
-<head>
-	<title>CodeCrushCrew Lesson1</title>
-	<!--meta tags-->
-	<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!--CSS tags-->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&family=Raleway:ital,wght@1,300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+	<head>
+		<title>CodeCrushCrew Lesson1</title>
+		<!--meta tags-->
+		<meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	    <!--CSS tags-->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&family=Raleway:ital,wght@1,300&display=swap" rel="stylesheet">
+	    <link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	
 	<body>
 		<div id="nav-bar">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
