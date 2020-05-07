@@ -89,7 +89,7 @@ body {
 	padding-left: 10px;
 	//background-color: white;
 	display: flex;
-	flex-direction: row;
+	//flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	border-radius: 10px;
