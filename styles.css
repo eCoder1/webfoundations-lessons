@@ -1,0 +1,142 @@
+html {
+	scroll-behavior: smooth;
+}
+
+h3 {
+	color:green;
+	text-align: center;
+	}
+
+b {
+	text-decoration: underline;
+    }
+
+a {
+	color: purple;
+}   
+
+body {
+	margin: auto;
+	//max-width: 900px;
+	//border: dashed green;
+	background-image: url(https://romelakimseva.files.wordpress.com/2018/06/00254ae5-813f-4125-bfe4-412362090c19.jpeg?w=1200);
+	background-repeat: no-repeat;
+	//background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	//background-color: white;
+}    
+#heading {
+			background-color: green;
+			font-size: 25pt;
+			text-align: center;
+		}
+.heading {
+        	font-style: italic;
+        	margin-bottom: 50px;
+        }
+#less1 {
+	background-color: grey;
+	font-family: cursive;
+}
+.bordered {
+	border: dashed green;
+}
+.center {
+	text-align: center;
+	position: relative;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.div {
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	padding: 15px;
+	padding-right: auto;
+	padding-left: auto;
+	background: rgb(34,193,195);
+	background: linear-gradient(221deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+.img-cir {
+    height: 100px;
+//	width: 100px;
+	border-radius: 50px;
+}
+#less7 {
+	font-family: 'Baloo Bhaina 2', 'Raleway', cursive;
+}
+
+#p2tag {
+	color: brown;
+}
+.flex-container{
+	height: 100vh;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+.add-flexbox {
+	//margin-left: -220px;
+	//margin-right: -220px;
+	padding: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	//background-color: white;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	border-radius: 10px;
+}
+.list-width{
+	width: auto;
+	margin: auto;
+	margin-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	//padding: 10px;
+}
+#less9d{
+	padding-left: auto;
+	padding-right: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin: auto;
+	//background-color: white;
+}
+.margin-top{
+	margin-top: 44px; 
+	//height: 400px;
+	background-color: brown;
+	border-radius: 10px;
+}
+.images {
+	height: 40vh;
+	width: 30vw;
+}
+.colorGreen {
+	background-color: grey; 
+}
+.captionSize {
+	height: 12vh;
+	width: 30vw;
+}
+.white-background{
+	background-color: white
+}
+.grey-background{
+	background-color: grey;
+}
+.new-gradient{
+	background: rgb(2,0,36);
+	background: linear-gradient(37deg, rgba(2,0,36,1) 0%, rgba(145,53,27,0.9668242296918768) 54%, rgba(0,212,255,1) 100%);
+}
+.metallic-color{
+	color: rgb(117, 105, 110);
+}
