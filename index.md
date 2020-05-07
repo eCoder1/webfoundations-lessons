@@ -1,5 +1,4 @@
-<!DOCTYPE html> 
-<html> 
+ <html> 
 	<head>
 		<title>CodeCrushCrew Lesson1</title>
 		<!--meta tags-->
@@ -73,17 +72,8 @@
 			          <a class="dropdown-item" href="#less19">Lesson 19</a>
 			          <div class="dropdown-divider"></div>
 			          <a class="dropdown-item" href="#less20">Lesson 20</a>
-
 			        </div>
 			      </li>
-			     <!-- <li class="nav-item">
-			        <a class="nav-link disabled" href="#">Disabled</a>
-			      </li>
-			    </ul>
-			    <form class="form-inline my-2 my-lg-0">
-			      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-			      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-			    </form> -->
 			  </div>
 			</nav>	
 		</div>
@@ -235,25 +225,25 @@
 		    		<ol>
 		    			<li>Singing</li>
 		    			<li>Driving</li>
-		    		</ul>
+		    		</ol>
 		    	</div>
 		    	<div class="list-width">
 		    		<h4>Passionate about</h4>
 		    		<ul>
 		    			<li>Reading</li>
 		    			<li>Writing</li>
-		    		</ol>
+		    		</ul>
 		    	</div>
 
-			    <div id="less9d">
-			    	<b>Discussions</b>
+			<div id="less9d">
+			 	<b>Discussions</b>
 			    	<ul>
 			    		<li>flex wrap lets us change the display of information if the width is too small</li>
 			    		<li><a href="https://icons8.com/"><img src="https://img.icons8.com/nolan/96/icons8-new-logo.png"/></a> Icons8 is a really nice place to get icons</li>
 			    	</ul>
 		    	</div>
-		    </div>	
-		    <h3>End of Lesson 9</h3>
+		</div>	
+		<h3>End of Lesson 9</h3>
 	    </div>
 
 	    <div id="carousel-div" class="margin-top new-gradient">
@@ -324,7 +314,6 @@
 	    	<ul>
 	    		<li>"./images/imageName.png" will locate imageName in the images folder in the same directory.</li>
 	    		<li>"<!--This is a comment-->" An HTML comment has the following syntax: an opening tag, an exclamation, 2 dashes, comment, 2 dashes, closing tag. </li>
-	    		<li></li>
 
 	    	</ul>
 	    	<h3>End of Lesson 10</h3>
